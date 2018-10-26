@@ -1,4 +1,8 @@
 <resources>
-    <string name="app_name">TarjetasProject</string>
-    <string name="action_settings">Settings</string>
+    <string name="app_name">hola</string>
+    <string-array name="tel">
+        <item>Movil</item>
+        <item>Oficina</item>
+        <item>Casa</item>
+    </string-array>
 </resources>
